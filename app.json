@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "341897dc-b00b-4200-b85c-6241cc6f856b"
+      }
+    },
+    "owner": "vitaliiverdiiev"
   }
 }
